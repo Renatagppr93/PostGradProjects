@@ -1,0 +1,27 @@
+---------- Forwarded message ---------
+From: Renata Garcia Prieto Palacios Roji <garciaprier1@mail.montclair.edu>
+Date: Tue, May 17, 2022 at 12:32 PM
+Subject: Meeting Notes 5/1/7/2022
+To: John Kulas <kulasj@montclair.edu>, Michael Bixter <bixterm@montclair.edu>
+
+
+Hi Team! 
+
+Some of the discussion points from today:
+
++ Look at one DV at a time and see which ones are relevant for GWB
++ Force model variables into JDR framework 
++ Methods based pieces: cross validation (sample in half), use unique constructs (measurement invariance). 
++ Invariance in technostress based on demographic factors (for example, desired intensity).
++ Focusing in technostress and subscales 
++ Kulas is most interested in: fit these into JDR framework and measurement invariance of technostress scales across desired telecommuting intensity. 
++ We can keep unsurprising relationships as covariates (we could split it into GWB in one and then Job sat and turnover in another)
++ Attitudes toward telecommuting measure! 
++ Techno invasion and techno complexity past correlations in research since 2007. 
+
+To Do: 
+
++ Renata: Ask lauren about using the data without identifiers 
++ Bixter: create Github account and email Renata once done to add 
++ All: Look at data before next meeting to discuss further 
++ Think about: what can we simplify from current model
